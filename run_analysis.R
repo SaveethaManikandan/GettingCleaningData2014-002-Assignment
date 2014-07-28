@@ -5,7 +5,6 @@
 ##  |---run_analysis.R
 ##  |
 ##  |---UCI HAR Dataset/
-
 ## in case you are not sure, 
 ## you can double check with the github repo 
 ## where this file is based in
